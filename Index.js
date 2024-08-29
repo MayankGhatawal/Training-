@@ -1,1 +1,2 @@
-console.log("Hello From Training")
+let Name = "Training";
+console.log("Hello From " + Name)
